@@ -8,9 +8,7 @@
 		"source": "https://github.com/adimancifi/testing"
 	},
 	"minimum-stability": "dev",
-	"require": {
-		"php": "^7.3 || ^8.0"
-	},
+	"require": {},
 	"config":{
 		"platform-check": false
 	}
