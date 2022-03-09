@@ -1,0 +1,15 @@
+{
+	"description": "Adiman Testing",
+	"name": "adimancifi/testing",
+	"type": "project",
+	"license": "MIT",
+	"homepage": "https://github.com/adimancifi/testing",
+	"support": {
+		"source": "https://github.com/adimancifi/testing"
+	},
+	"minimum-stability": "dev",
+	"require": {},
+	"config":{
+		"platform-check": false
+	}
+}
