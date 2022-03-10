@@ -8,8 +8,15 @@
 		"source": "https://github.com/adimancifi/testing"
 	},
 	"minimum-stability": "dev",
-	"require": {},
-	"config":{
-		"platform-check": false
-	}
+    "require": {
+        "cifirecms/installer": "^1",
+        "codeigniter/framework": "~3.1",
+        "vlucas/phpdotenv": "^4.1"
+    },
+    "require-dev": {
+		"mikey179/vfsstream": "1.1.*"
+	},
+    "suggest": {
+        "paragonie/random_compat": "Provides better randomness in PHP 5.x"
+    }
 }

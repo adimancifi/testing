@@ -1,0 +1,16 @@
+app/cache/*
+!app/cache/index.html
+
+app/logs/*
+!app/logs/index.html
+
+!app/*/.htaccess
+
+vendor/*
+
+composer.lock
+
+__bak/*
+
+.env
+.DS_Store
